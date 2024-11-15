@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0283-move-zeroes) |
 | [0001-two-sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0001-two-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Greedy
 |  |
 | ------- |
