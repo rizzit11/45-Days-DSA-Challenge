@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0075-sort-colors](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0075-sort-colors](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,4 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
