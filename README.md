@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0075-sort-colors) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0283-move-zeroes) |
+| [0001-two-sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0001-two-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
