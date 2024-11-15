@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0001-two-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
