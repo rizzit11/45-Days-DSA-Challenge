@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 | [0018-4sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,11 +50,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 | [0018-4sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0169-majority-element](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -62,4 +65,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
