@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0015-3sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0075-sort-colors) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0283-move-zeroes) |
+| [0015-3sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0015-3sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0015-3sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
