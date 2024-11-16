@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0015-3sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0088-merge-sorted-array) |
+| [0018-4sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0283-move-zeroes) |
 | [0015-3sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0088-merge-sorted-array) |
+| [0018-4sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0018-4sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0015-3sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0088-merge-sorted-array) |
+| [0018-4sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
