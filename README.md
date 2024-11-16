@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0015-3sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0283-move-zeroes) |
 | [0015-3sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0015-3sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
