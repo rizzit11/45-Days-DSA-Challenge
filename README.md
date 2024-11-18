@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 | [0018-4sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0169-majority-element) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0169-majority-element](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0169-majority-element) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -83,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0067-add-binary) |
+## Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
