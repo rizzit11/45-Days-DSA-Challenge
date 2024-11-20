@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0169-majority-element) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
+| [0011-container-with-most-water](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 | [0018-4sum](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0018-4sum) |
+| [0011-container-with-most-water](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0011-container-with-most-water](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0011-container-with-most-water) |
 ## Math
 |  |
 | ------- |
