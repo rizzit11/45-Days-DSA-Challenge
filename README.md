@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0169-majority-element) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 | [0011-container-with-most-water](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0011-container-with-most-water) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +93,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
