@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 | [0011-container-with-most-water](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0011-container-with-most-water) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [0560-subarray-sum-equals-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0169-majority-element](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0169-majority-element) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
+| [0560-subarray-sum-equals-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [0560-subarray-sum-equals-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
