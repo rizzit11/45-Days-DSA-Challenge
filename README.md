@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0011-container-with-most-water) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [0560-subarray-sum-equals-k](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0054-spiral-matrix](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0067-add-binary) |
+| [0054-spiral-matrix](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0054-spiral-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rizzit11/45-Days-DSA-Challenge/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
